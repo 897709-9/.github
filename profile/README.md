@@ -2,7 +2,7 @@
 
 <p>随着跨境电商、海外AI工具、独立站运营等场景的爆发式增长，越来越多的用户开始关注<b>海外住宅IP</b>与<b>静态住宅IP</b>。相比常见的机房IP（数据中心IP），住宅IP天然具有更高的信任度与更低的封号风险，因此成为出海企业的刚需资源。那么市面上到底有哪些靠谱的海外住宅IP服务商？住宅服务器的价格又是如何定价的？本文将为大家做一次全面梳理。</p>
 
-<img src="/.github/blob/main/residential-ip-provider-overview.jpg" alt="海外住宅IP服务商对比示意图" width="900" height="450" />
+<img src="/residential-ip-provider-overview.jpg" alt="海外住宅IP服务商对比示意图" width="900" height="450" />
 
 <h3>一、什么是住宅IP与静态住宅IP？</h3>
 
@@ -43,7 +43,7 @@
   <li><b>静态 vs 动态：</b>静态住宅IP因资源稀缺，价格普遍高于普通动态住宅IP。</li>
 </ol>
 
-<img src="/.github/blob/main/static-residential-ip-price-comparison.jpg" alt="不同规格静态住宅IP套餐价格对比表" width="900" height="450" />
+<img src="/static-residential-ip-price-comparison.jpg" alt="不同规格静态住宅IP套餐价格对比表" width="900" height="450" />
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
