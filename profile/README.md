@@ -1,5 +1,3 @@
-<h1>静态住宅IP购买需要看哪些参数？详细选购指南</h1>
-
 <p align="center">
   <span style="color:#FF3333;font-size:24px;"><b>&#x274C; 亚马逊二审？ &#x274C; TikTok封店？ &#x274C; Claude被禁？ &#x274C; ChatGPT打不开？</b></span>
 </p>
