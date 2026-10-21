@@ -5,7 +5,7 @@
   <span style="color:#FF8C00;"><b>&#x1F525;  真实住宅IP · 一店一IP · 全球节点！！</b></span><br>
   <span style="color:#FF8C00;"><b>&#x26A1;  100M—1000M专线独享！</b></span><br>
   <span style="color:#FF8C00;"><b>&#x2705;  七号网络：为出海护航！</b></span><br>
-  <span style="color:#4169E1;"><b>🚀  QQ|微信：33222811<p></b></span>
+  <span style="color:#4169E1;"><b>🚀  QQ|微信：33222811</b></span>
   <a href="https://ip7.cc" target="_blank" rel="nofollow noopener noreferrer">
     <span style="color:#FFFFFF;background-color:#E53935;padding:12px 24px;border-radius:8px;font-size:20px;"><b>  点击访问：ip7.cc</b></span>
   </a>
